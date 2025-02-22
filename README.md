@@ -65,5 +65,6 @@
 
 <br clear="both">
 
+<img src="https://github.com/S1lenceY/S1lenceY/blob/output/github-snake-dark.svg" alt="Animación de la culebra">
 
 ###
