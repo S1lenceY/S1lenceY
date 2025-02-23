@@ -60,10 +60,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S1lenceY/S1lenceY/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S1lenceY/S1lenceY/blob/output/github-snake.svg" />
-  <img alt="La culebrítica" src="https://raw.githubusercontent.com/S1lenceY/S1lenceY/blob/output/github-snake.svg" />
-</picture>
+<img alt="La culebrítica" src="https://raw.githubusercontent.com/S1lenceY/S1lenceY/blob/output/github-snake.svg" />
 
 ###
