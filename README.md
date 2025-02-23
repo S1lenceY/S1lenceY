@@ -60,6 +60,6 @@
 
 <br clear="both">
 
-<img alt="La culebrítica" src="https://github.com/S1lenceY/S1lenceY/blob/output/github-snake-dark.svg" />
+<img alt="La culebrítica" src="https://raw.githubusercontent.com/S1lenceY/S1lenceY/output/github-snake-dark.svg" />
 
 ###
